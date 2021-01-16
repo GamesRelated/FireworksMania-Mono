@@ -1,0 +1,1 @@
+# FireworksMania-functions
