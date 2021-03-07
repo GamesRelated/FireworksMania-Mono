@@ -29,9 +29,5 @@ namespace FMMono
                 }
             }
         }
-        public void OnGui()
-        {
-            GUI.Label(new Rect(Screen.width / 2, Screen.height / 2, 150f, 50f), "Menu injected");
-        }
     }
 }
